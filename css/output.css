@@ -566,6 +566,10 @@ html {
   margin-bottom: 0.125rem;
 }
 
+.-ml-4 {
+  margin-left: -1rem;
+}
+
 .inline-block {
   display: inline-block;
 }
